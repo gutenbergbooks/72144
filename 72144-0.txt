@@ -1,3 +1,4 @@
+﻿
 
 
 
@@ -14427,7 +14428,7 @@ Footnote 108:
 Footnote 109:
 
   “Et de liij^s iiij^d de Willelmo Hosyer pro redditu cujusdam messuagii
-  vocati le White Harte in Hamelett S^{el} Egidii et xviij acr’ pasture
+  vocati le White Harte in Hamelett S^{ci} Egidii et xviij acr’ pasture
   ac unius parvi clausi vocati Pale Close.” (_Ministers’ Accounts_,
   2101, Henry VIII.)
 
@@ -14566,7 +14567,7 @@ Footnote 130:
 
 Footnote 131:
 
-  _Close Roll_, 1650 (3542).—Indenture between William Short _and_ Thos.
+  _Close Roll_, 1650 (3542).—Indenture between William Short and Thos.
   Walker, Peter Mills _and_ Richd. Horseman.
 
 Footnote 132:
@@ -14632,7 +14633,7 @@ Footnote 139:
 
 Footnote 140:
 
-  _Close Roll_, 1650 (3542).—Indenture between William Short _and_
+  _Close Roll_, 1650 (3542).—Indenture between William Short and
   Thomas Walker, Peter Mills _and_ Richard Horseman.
 
 Footnote 141:
@@ -15176,7 +15177,7 @@ Footnote 228:
 
 Footnote 229:
 
-  _Hist. MSS. Comm._; _MSS. of the Earl of Egmont_, I., p. 223.
+  _Hist. MSS. Comm.; MSS. of the Earl of Egmont_, I., p. 223.
 
 Footnote 230:
 
@@ -15203,7 +15204,7 @@ Footnote 234:
 
   Sir William Constable was afterwards possibly an occupant of the
   house, for on 24th May, 1647, he wrote to the old Lord Fairfax from
-  “Queen Street.” (_Hist. MSS. Comm._; _Morrison MSS._, Report IX., Part
+  “Queen Street.” (_Hist. MSS. Comm.; Morrison MSS._, Report IX., Part
   II., App. p. 439.) Constable had married in 1608, Dorothy, daughter of
   Thomas, first Lord Fairfax. He contrived with difficulty to raise a
   regiment of foot in the Civil War, and greatly distinguished himself
@@ -15474,7 +15475,7 @@ Footnote 280:
 
 Footnote 281:
 
-  _Fees of Fines, Middlesex_, 13 Chas. I., Trinity.
+  _Feet of Fines, Middlesex_, 13 Chas. I., Trinity.
 
 Footnote 282:
 
@@ -15486,7 +15487,7 @@ Footnote 282:
 
 Footnote 283:
 
-  _Recovery Roll (Common Pleas)_, 17 Chas. I., Hilary, 236.—Indenture
+  _Recovery Roll_ (_Common Pleas_), 17 Chas. I., Hilary, 236.—Indenture
   between William Newton, Philip Willoughby and Edward Mabb _and_ Edward
   Burghe.
 
@@ -16224,7 +16225,7 @@ Footnote 419:
 Footnote 420:
 
   Peter Mills died in 1670, then being resident in Little St.
-  Bartholomew’s. (_Somerset House Wills_, Penn, 147.)
+  Bartholomew’s. (_Somerset House Wills, Penn_, 147.)
 
 Footnote 421:
 
@@ -16852,7 +16853,7 @@ Footnote 532:
 
 Footnote 533:
 
-  John Vavasour’s will (_Somerset House Wills, Winderbanck, 65_), was
+  John Vavasour’s will (_Somerset House Wills, Winderbanck_, 65), was
   proved on 18th June, 1608.
 
 Footnote 534:
@@ -18088,3 +18089,6 @@ Footnote 782:
  4. Denoted superscripts by a caret before a single superscript
       character or a series of superscripted characters enclosed in
       curly braces, e.g. M^r. or M^{ister}.
+
+
+
